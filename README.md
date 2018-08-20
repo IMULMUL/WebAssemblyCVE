@@ -7,7 +7,7 @@ CVE-2018-5093 | OSS-Fuzz | Buffer Overflow | [Link](https://bugzilla.mozilla.org
 ## JavascriptCore
 CVE Number | Credit | Type | Link
 ---------- | ------- | -------- | --
-CVE-2018-4121 | natashenka | Integer Overflow | [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=1546)
+CVE-2018-4121 | natashenka | Integer Overflow | [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=1522)
 CVE-2018-4222 | natashenka | Info leak | [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=1545&desc=2)
 
 ## V8
