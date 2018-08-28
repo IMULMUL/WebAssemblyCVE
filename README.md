@@ -19,6 +19,7 @@ CVE-2017-5122 | Choongwoo Han | OOB | [Link](https://bugs.chromium.org/p/chromiu
 CVE-2017-15399 | Zhao Qixun | UAF | [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=776677)
 CVE-2017-15401 | | OOB | [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=766260)
 CVE-2018-6036 | NCSC | Integer Overflow	| [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=789952)
+CVE-2018-6131 | natashenka | UAF | [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=826434)
 CVE-2018-6061 | Guang Gong | race condition | [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=794091)
 CVE-2018-6092 | natashenka | Integer Overflow | [Link](https://bugs.chromium.org/p/project-zero/issues/detail?id=1546)
 CVE-2018-6122 | Clusterfuzz | Null-dereference | [Link](https://bugs.chromium.org/p/chromium/issues/detail?id=836141)
